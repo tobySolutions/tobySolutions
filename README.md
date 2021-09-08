@@ -1,5 +1,37 @@
-### Hi there 👋
+<img src=https://user-images.githubusercontent.com/49791498/132563321-cab70e5c-3d3d-47ec-ae2c-9272877e851e.jpeg alt="MyPic">
 
+### Okairee...... 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23267D21D8&center=true&lines=Technical+Program+Manager;DevOps+Engineer;Technical+Writer;Tutor)](https://git.io/typing-svg)
+
+<!-- Social icons section -->
+<p align="center">
+ <a href="https://twitter.com/mba_oma"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://linkedin.com/in/mbaoma-chioma-mary" alt="LinkedIn"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://hashnode.com/omarrrz-lounge.com"><img width="32px" alt="Blog" title="Blog on Hashnode" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  </a>
+</p>
+
+<br/>
+
+### 👨‍💻 Skills
+
+<p>
+    - Programming Language: Python
+    - Framework: Flask
+    - Automated deployment: Travis CI, Circle CI
+    - Infrastructure as Code: Terraform, Ansible
+    - Version control: Github, Azure DevOps
+    - Great communication skills
+    - Technical writing: articles, guidelines
+    - User Experience documentation
+
+
+## 🔥 Streak stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mbaoma&theme=cobalt)](https://git.io/streak-stats)
 <!--
 **Mbaoma/Mbaoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
