@@ -6,12 +6,11 @@
 
 <!-- Social icons section -->
 <p align="center">
- <a href="https://twitter.com/mba_oma"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+ <a href="https://twitter.com/mba_oma"><img width="26px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/mbaoma-chioma-mary" alt="LinkedIn"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://linkedin.com/in/mbaoma-chioma-mary" alt="LinkedIn"><img width="26px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://hashnode.com/omarrrz-lounge.com"><img width="32px" alt="Blog" title="Blog on Hashnode" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
   </a>
 </p>
 
