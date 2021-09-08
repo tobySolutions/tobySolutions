@@ -1,6 +1,6 @@
-<!--<img src=https://user-images.githubusercontent.com/49791498/132563321-cab70e5c-3d3d-47ec-ae2c-9272877e851e.jpeg alt="MyPic"> -->
+<img src=https://user-images.githubusercontent.com/49791498/132563321-cab70e5c-3d3d-47ec-ae2c-9272877e851e.jpeg alt="MyPic"> 
 
-### Okairee...... 👋
+### Okairee...... 🌻👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23267D21D8&center=true&lines=Technical+Program+Manager;DevOps+Engineer;Technical+Writer;Tutor)](https://git.io/typing-svg)
 
