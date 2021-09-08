@@ -1,4 +1,4 @@
-<img src=https://user-images.githubusercontent.com/49791498/132563321-cab70e5c-3d3d-47ec-ae2c-9272877e851e.jpeg alt="MyPic"> 
+<img width="128px" src=https://user-images.githubusercontent.com/49791498/132563321-cab70e5c-3d3d-47ec-ae2c-9272877e851e.jpeg alt="MyPic"> 
 
 ### Okairee...... 🌻👋
 
