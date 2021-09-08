@@ -1,4 +1,4 @@
-<img src=https://user-images.githubusercontent.com/49791498/132563321-cab70e5c-3d3d-47ec-ae2c-9272877e851e.jpeg alt="MyPic">
+<!--<img src=https://user-images.githubusercontent.com/49791498/132563321-cab70e5c-3d3d-47ec-ae2c-9272877e851e.jpeg alt="MyPic"> -->
 
 ### Okairee...... 👋
 
@@ -20,18 +20,23 @@
 ### 👨‍💻 Skills
 
 <p>
-    - Programming Language: Python
-    - Framework: Flask
-    - Automated deployment: Travis CI, Circle CI
-    - Infrastructure as Code: Terraform, Ansible
-    - Version control: Github, Azure DevOps
-    - Great communication skills
-    - Technical writing: articles, guidelines
-    - User Experience documentation
+    - Programming Language: Python <br>
+    - Framework: Flask <br>
+    - Automated deployment: Travis CI, Circle CI, Jenkins <br>
+    - Infrastructure as Code: Terraform, Ansible <br>
+    - Version control: Github, Azure DevOps <br>
+    - Great communication skills <br>
+    - Technical writing: articles, guidelines <br>
+    - User Experience documentation <br>
 
 
 ## 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mbaoma&theme=cobalt)](https://git.io/streak-stats)
+<br>
+ 
+Ganbate!! <br>
+
+Janai......
 <!--
 **Mbaoma/Mbaoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
