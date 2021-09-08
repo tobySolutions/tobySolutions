@@ -1,11 +1,11 @@
 <img width="128px" src=https://user-images.githubusercontent.com/49791498/132563321-cab70e5c-3d3d-47ec-ae2c-9272877e851e.jpeg alt="MyPic"> 
 
-## Okairee...... 🌻 👋
+## Okairee...... 👋🌻
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23267D21D8&center=true&lines=Technical+Program+Manager;DevOps+Engineer;Technical+Writer;Tutor)](https://git.io/typing-svg)
 
 <!-- Social icons section -->
-<p align="center">
+<p align="left">
  <a href="https://twitter.com/mba_oma"><img width="26px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/mbaoma-chioma-mary" alt="LinkedIn"><img width="26px" src="https://i.imgur.com/OViZO8J.png"/></a>
