@@ -2,7 +2,7 @@
 
 ## Okairee...... 👋🌻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23267D21D8&center=true&lines=Technical+Program+Manager;DevOps+Engineer;Technical+Writer;Tutor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23267D21D8&center=true&lines=DevOps+Engineer;Technical+Writer)](https://git.io/typing-svg)
 
 <!-- Social icons section -->
 <p align="left">
@@ -21,12 +21,10 @@
 <p>
     - Programming Language: Python <br>
     - Framework: Flask <br>
-    - Automated deployment: Travis CI, Circle CI, Jenkins <br>
+    - CI/CD: Travis CI, Circle CI, Jenkins <br>
     - Infrastructure as Code: Terraform, Ansible <br>
-    - Version control: Github, Azure DevOps <br>
     - Great communication skills <br>
-    - Technical writing: articles, guidelines <br>
-    - User Experience documentation <br>
+    - Technical writing: Articles, User Guides, API documentation, Tutorial Articles <br>
 
 
 ## 🔥 Streak stats
