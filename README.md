@@ -1,5 +1,6 @@
 ## Okairee!!! 
 Watashi wa 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23267D21D8&left=true&lines=DevOps+Engineer;Technical+Writer)](https://git.io/typing-svg)
 
 ### 👨‍💻 Skills
