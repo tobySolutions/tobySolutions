@@ -1,5 +1,3 @@
-<img width="128px" src=https://user-images.githubusercontent.com/49791498/132563321-cab70e5c-3d3d-47ec-ae2c-9272877e851e.jpeg alt="MyPic"> 
-
 ## Okairee...... 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23267D21D8&center=true&lines=DevOps+Engineer;Technical+Writer)](https://git.io/typing-svg)
