@@ -1,10 +1,19 @@
 ## Okairee...... 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23267D21D8&center=true&lines=DevOps+Engineer;Technical+Writer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23267D21D8&left=true&lines=DevOps+Engineer;Technical+Writer)](https://git.io/typing-svg)
 
 ### 👨‍💻 Skills
-    💬 I work with: AWS, Azure, Terraform, Kubernetes, Python (Flask), Java <br>
-    💬 Interests: Technical Writing, DevOps, Architecting Cloud Solutions
+💬 Python (Flask) <br>
+💬 Java <br>
+💬 AWS <br>
+💬 Azure <br>
+💬 Terraform <br>
+💬 Kubernetes <br>
+
+### 👨‍💻 Intetests
+    💬 Technical Writing <br>
+    💬 DevOps <br>
+    💬 Architecting Cloud Solutions <br>
 
 ## 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mbaoma&theme=cobalt)](https://git.io/streak-stats)
