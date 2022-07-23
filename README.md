@@ -19,12 +19,11 @@
 ### 👨‍💻 Skills
 
 <p>
-    - Programming Language: Python <br>
+    - Programming Language(s): Python, Java <br>
     - Framework: Flask <br>
     - CI/CD: Travis CI, Circle CI, Jenkins <br>
-    - Infrastructure as Code: Terraform, Ansible <br>
-    - Great communication skills <br>
-    - Technical writing: Articles, User Guides, API documentation, Tutorial Articles <br>
+    - DevOps Technologies: AWS, Azure, Terraform <br>
+    - Technical Writer <br>
 
 
 ## 🔥 Streak stats
@@ -33,7 +32,6 @@
  
 Ganbate!! <br>
 
-Janai......
 <!--
 **Mbaoma/Mbaoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
