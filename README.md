@@ -24,8 +24,10 @@ Ganbate!! <br>
 <p align="left">
  <a href="https://twitter.com/mba_oma"><img width="26px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/mbaoma-chioma-mary" alt="LinkedIn"><img width="26px" src="//imgur.com/a/jAOdVIH"/></a>
+  <a href="https://linkedin.com/in/mbaoma-chioma-mary" alt="LinkedIn"><img width="26px" src="htttps:i.//imgur.com/a/jAOdVIH"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+    
+   
   </a>
 </p>
 
