@@ -5,14 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23267D21D8&center=true&lines=DevOps+Engineer;Technical+Writer)](https://git.io/typing-svg)
 
 ### 👨‍💻 Skills
-
-<p>
-    - Programming Language(s): Python, Java <br>
-    - Framework: Flask <br>
-    - CI/CD: Travis CI, Circle CI, Jenkins <br>
-    - DevOps Technologies: AWS, Azure, Terraform <br>
-    - Technical Writer <br>
-
+    💬 I work with: AWS, Azure, Terraform, Kubernetes, Python (Flask), Java <br>
+    💬 Interests: Technical Writing, DevOps, Architecting Cloud Solutions
 
 ## 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mbaoma&theme=cobalt)](https://git.io/streak-stats)
