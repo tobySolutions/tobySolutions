@@ -2,7 +2,7 @@
 
 interested in 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23267D21D8&center=true&lines=devOps;technical+writing;sre;cloud+architecting](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=#DevOps+line+of+text;#technical+writing+of+text)](https://git.io/typing-svg)
 
 ### 👨‍💻 Skills
     💬 Python (Flask) 
