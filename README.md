@@ -2,7 +2,7 @@
 
 interested in 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps+line+of+text;Technical+Writing;SRE+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps;Technical+Writing;Teaching+kids+tech)](https://git.io/typing-svg)
 
 ### 👨‍💻 Skills
     💬 Python (Flask) 
@@ -22,5 +22,5 @@ interested in
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mbaoma&theme=cobalt)](https://git.io/streak-stats)
 <br>
  
-Ganbate 😄!! <br>
+Ganbate ✌!! <br>
  
