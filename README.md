@@ -1,6 +1,6 @@
 ## Okairee!!! 
 
-interested in 
+This user is interested in: 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps;Technical+Writing;Teaching+kids+tech)](https://git.io/typing-svg)
 
