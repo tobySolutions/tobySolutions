@@ -23,6 +23,10 @@ My interests are:
 ## 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tobySolutions&theme=cobalt)](https://git.io/streak-stats)
 <br>
+
+
+<a href="https://app.daily.dev/Toby7"><img src="https://api.daily.dev/devcards/06fe0e1c38fb4b3dbf981fcb99aedd9d.png?r=snd" width="400" alt="Tobiloba Adedeji's Dev Card"/></a>
+
  
 O dabo✌!! <br>
  
