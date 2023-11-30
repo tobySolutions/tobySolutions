@@ -11,8 +11,6 @@ My interests are:
     💬 Python
     💬 AWS 
     💬 Azure 
-    💬 Terraform 
-    💬 Kubernetes  
 
 <!-- Social icons section -->
 <p align="left">
