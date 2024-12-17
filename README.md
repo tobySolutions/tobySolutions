@@ -19,7 +19,7 @@ My interests are:
 </p>   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 ## 🔥 Streak stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tobySolutions&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](http://streak-stats.demolab.com/?user=tobySolutions&theme=cobalt)](https://git.io/streak-stats)
 <br>
 
 
