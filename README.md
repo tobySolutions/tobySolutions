@@ -1,33 +1,44 @@
-## E Kaabo!!! 
+# Tobiloba Adedeji
 
-My interests are: 
+Software engineer building at the intersection of AI agents and Solana.
+Currently at [Idyllic Labs](https://github.com/idyllic-labs) researching
+agent-native infrastructure. Previously contributed to
+[Million.js](https://github.com/aidenybai/million) (16K+ stars).
+Co-founded [Solana Students Africa](https://solanastudentsafrica.com).
+Solana Turbine Q4 2025 graduate.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=Frontend;Open+source;DevOps;Technical+Writing;Teaching+kids+tech)](https://git.io/typing-svg)
+Based in Lagos, Nigeria.
 
-### 👨‍💻 Skills
+---
 
-    💬 Rust
-    💬 Javascript
-    💬 Typescript
-    💬 Java 
-    💬 Python
-    💬 AI engineering
-    💬 AWS 
-    💬 Azure 
+### What I'm Building
 
-<!-- Social icons section -->
-<p align="left">
- <a href="https://twitter.com/toby_solutions"><img width="26px" alt="Twitter" title="Twitter" src="https://i.imgur.com/LS08Auh.png"/></a>
- <a href="https://linkedin.com/in/tobiloba-adedeji" alt="LinkedIn"><img width="26px" src="https://i.imgur.com/VgmUYaC.png"/></a>
-</p>   &#8287;&#8287;&#8287;&#8287;&#8287;
+**[agentgateway](https://github.com/tobySolutions/agentgateway)** -- nginx for AI agents.
+Cost budgets, rate limiting, circuit breakers, live dashboard.
 
-## 🔥 Streak stats
-[![GitHub Streak](http://streak-stats.demolab.com/?user=tobySolutions&theme=dark)](https://git.io/streak-stats)
-<br>
+**[sol-fuzz](https://github.com/tobySolutions/sol-fuzz)** -- AI-powered security scanner for Solana programs.
+Finds vulnerabilities, generates proof-of-concept exploits automatically.
 
+**[x402-nextjs](https://github.com/solana-foundation/x402-nextjs)** -- Official Solana Foundation template for X402 payment protocol.
+Next.js starter with crypto payment gates and session management.
 
-<a href="https://app.daily.dev/Toby7"><img src="https://api.daily.dev/devcards/06fe0e1c38fb4b3dbf981fcb99aedd9d.png?r=snd" width="400" alt="Tobiloba Adedeji's Dev Card"/></a>
+**[framework-kit](https://github.com/Kronos-Guild/framework-kit)** -- React framework for Solana dApps.
+Wallets, transactions, and reactive freshness-aware data flows.
 
- 
-O dabo✌!! <br>
- 
+**[Khoai](https://github.com/tobySolutions/khoai)** -- Barrier options AMM on Solana.
+Pinocchio framework, no_std, zero-allocation, 128-bit math.
+
+---
+
+### Writing
+
+- [Your Multi-Agent System Needs a Kernel, Not a Bigger Brain](https://tobysolutions.dev/blog/multi-agent-kernel)
+- [Your Agent Is Not Stupid. Your Harness Is.](https://tobysolutions.dev/blog/harness-engineering)
+- [Safe Outputs: The Most Important Pattern in Agent Architecture](https://tobysolutions.dev/blog/safe-outputs)
+
+---
+
+[tobySolutions.dev](https://tobysolutions.dev) ·
+[Twitter](https://twitter.com/toby_solutions) ·
+[YouTube](https://www.youtube.com/@toby_solutions) ·
+[LinkedIn](https://linkedin.com/in/tobiloba-adedeji)
